@@ -1,6 +1,3 @@
-# Ignore downloaded Linux historic files
-linux-historic/
-
 # Python cache
 __pycache__/
 *.py[cod]
